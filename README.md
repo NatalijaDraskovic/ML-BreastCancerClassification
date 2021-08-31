@@ -26,5 +26,7 @@ Biblioteke koje je potrebno instalirati mogu se instalirati na sledeći nacin:
   * install -c conda-forge keras
   * conda install -c conda-forge imbalanced-learn
 
+Korišćeni skup podataka: https://www.kaggle.com/paultimothymooney/breast-histopathology-images.
+
 ## Autor
   Natalija Drašković natalija.draskovic@outlook.com, @NatalijaDraskovic
