@@ -27,6 +27,7 @@ Biblioteke koje je potrebno instalirati mogu se instalirati na sledeći nacin:
   * conda install -c conda-forge imbalanced-learn
 
 Korišćeni skup podataka: https://www.kaggle.com/paultimothymooney/breast-histopathology-images.
+Modeli koji nisu mogli biti okačeni na Github-u zbog veličine mogu se pronaći na Google Drive na linku: https://drive.google.com/drive/folders/1Su25LRT88w0UjsN1_Ls3RlGnvg1ckkeH.
 
 ## Autor
   Natalija Drašković natalija.draskovic@outlook.com, @NatalijaDraskovic
